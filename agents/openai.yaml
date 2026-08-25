@@ -1,0 +1,8 @@
+interface:
+  display_name: "智企小红书文章成卡工坊"
+  short_description: "先拆文章，再用 Article 模板生成小红书图文。"
+  brand_color: "#8F7650"
+  default_prompt: "Use $zhiqi-xhs-article-card-studio to decompose my supplied article into Xiaohongshu pages, then render the plan with the bundled Article templates."
+
+policy:
+  allow_implicit_invocation: false
